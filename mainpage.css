@@ -5,16 +5,19 @@ body {
  background-color:rgb(255,255,255); 
  
 }
+/* Heading Styling */
 h1.header {
  text-size: 20px;
  color:rgb(255,0,0);
 }
+/* Navigation Styling */
 div.navigation {
- 
+text-size:20px;
+ color:rgb(0,255,0);
 }
+/* Content Styling */
 div.content {
- 
+ text-size:10px;
+ color:rgb(0,0,255)
 }
-p {
- text-size: 10px;
-}
+/* Footer Styling */
