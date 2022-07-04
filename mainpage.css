@@ -12,9 +12,13 @@ h1.header {
 }
 /* Navigation Styling */
 div.navigation {
-text-size:20px;
- color:rgb(0,255,0);
+ text-size:20px;
+ display:block;
+}
+/* Making the navigation horizontally listed instead of vertically listed */
+a.navigation {
  display:inline;
+ color:rgb(0,255,0);
 }
 /* Content Styling */
 div.content {
