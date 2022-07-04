@@ -28,7 +28,7 @@ li.navigation {
  float:left;
 }
 /* Making spacing between each individual link, and also adding in some colour */
-li a.navigation {
+li a.nav {
  color:rgb(0,255,0);
  display:block;
  padding:10px;
