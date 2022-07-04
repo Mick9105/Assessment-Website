@@ -3,7 +3,9 @@ appropriately. If there is any odd spacing out with the code, that is because it
 
 body {
  background-color:rgb(255,255,255);
- border: 10px solid red;
+ border-width:10px;
+ border-color:rgb(0,0,0);
+ border-style:solid;
 }
 /* Heading Styling */
 h1.header {
