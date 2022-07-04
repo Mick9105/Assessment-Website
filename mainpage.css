@@ -36,7 +36,8 @@ li a.nav {
 /* Content Styling */
 div.content {
  text-size:10px;
- color:rgb(0,0,255)
+ color:rgb(0,0,255);
+ display:block;
 }
 /* Footer Styling */
 
