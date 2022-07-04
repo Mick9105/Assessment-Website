@@ -17,7 +17,7 @@ div.navigation {
  display:block;
 }
 /* Making the navigation horizontally listed instead of vertically listed */
-a.navigation {
+li.navigation {
  display:inline;
  color:rgb(0,255,0);
 }
