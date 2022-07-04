@@ -3,7 +3,7 @@ appropriately. If there is any odd spacing out with the code, that is because it
 
 body {
  background-color:rgb(255,255,255);
- border: 10px solid rgb(0,0,0);
+ border: 10px solid red;
 }
 /* Heading Styling */
 h1.header {
@@ -32,6 +32,7 @@ li a.nav {
  display:block;
  padding:10px;
  margin:10px;
+ border:
 }
 /* Content Styling */
 div.content {
