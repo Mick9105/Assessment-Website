@@ -16,10 +16,17 @@ div.navigation {
  text-size:20px;
  display:block;
 }
-/* Making the navigation horizontally listed instead of vertically listed */
+/*Customising the Navigation bar to remove the bullet points and removing the spacing between the browser and the lists */
+ul.navigation {
+ list-style-type:none;
+ padding:0;
+ margin:0;
+}
+/* Making the Navigation horizontally listed instead of vertically listed */
 li.navigation {
  display:inline;
  color:rgb(0,255,0);
+ float:left;
 }
 /* Content Styling */
 div.content {
@@ -27,3 +34,4 @@ div.content {
  color:rgb(0,0,255)
 }
 /* Footer Styling */
+
