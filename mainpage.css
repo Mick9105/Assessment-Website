@@ -18,12 +18,16 @@ h1.header {
 div.navigation {
  text-size:20px;
  display:block;
+ background-color:rgba(100,0,100,0.5);
 }
 /*Customising the Navigation bar to remove the bullet points and removing the spacing between the browser and the lists */
 ul.navigation {
  list-style-type:none;
  padding:0;
  margin:0;
+ border-width:5px;
+ border-color:rgb(0,0,0);
+ border-style:solid;
 }
 /* Making the Navigation horizontally listed instead of vertically listed */
 li.navigation {
@@ -37,7 +41,7 @@ li a.nav {
  padding:10px;
  margin:10px;
  border-width:5px;
- border-color:rgb(100,100,0);
+ border-color:rgb(255,0,0);
  border-style:solid;
 }
 /* Content Styling */
