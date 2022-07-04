@@ -19,9 +19,6 @@ div.navigation {
  text-size:20px;
  display:block;
  background-color:rgba(100,0,100,0.5);
-}
-/*Customising the Navigation bar to remove the bullet points and removing the spacing between the browser and the lists */
-ul.navigation {
  list-style-type:none;
  padding:0;
  margin:0;
