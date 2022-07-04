@@ -25,8 +25,14 @@ ul.navigation {
 /* Making the Navigation horizontally listed instead of vertically listed */
 li.navigation {
  display:inline;
- color:rgb(0,255,0);
  float:left;
+}
+/* Making spacing between each individual link, and also adding in some colour */
+li a.navigation {
+ color:rgb(0,255,0);
+ display:block;
+ padding:10px;
+ margin:10px;
 }
 /* Content Styling */
 div.content {
