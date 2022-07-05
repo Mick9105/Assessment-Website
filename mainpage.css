@@ -15,7 +15,7 @@ h1.header {
  color:rgb(255,0,0);
 }
 /* Navigation Styling */
-span.navigation {
+div.navigation {
  text-size:20px;
  background-color:rgba(100,0,100,0.5);
  list-style-type:none;
@@ -27,18 +27,14 @@ span.navigation {
 }
 /* Making the Navigation horizontally listed instead of vertically listed */
 li.navigation {
- display:inline;
+ float:left;
 }
 /* Making spacing between each individual link, and also adding in some colour */
 a.nav {
  color:rgb(0,255,0);
  display:block;
  padding:10px;
- margin:10px;
- border-width:5px;
- border-color:rgb(255,0,0);
- border-style:solid;
- float:left;
+ margin:0;
 }
 /* Content Styling */
 div.content {
