@@ -42,7 +42,7 @@ p.currentpage {
 div.content {
  text-size:10px;
  color:rgb(0,0,255);
- width:25%;
+ margin-left:25%;
 }
 /* Footer Styling */
 
