@@ -10,6 +10,8 @@ body {
 h1.header {
  text-size: 20px;
  color:rgb(255,0,0);
+ margin-left:25%;
+ padding:10px 10px;
 }
 /* Navigation Styling */
 ul.navigation {
