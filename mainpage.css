@@ -16,7 +16,10 @@ ul.navstyling {
  margin:0;
  padding:0;
  list-style-type:none;
- background-color:rgba(50,50,50,0.5);
+ background-color:rgb(100,100,100);
+ border-width:5px;
+ border-color:rgb(0,0,0);
+ border-style:solid;
 }
 li.navigation {
  float:left;
