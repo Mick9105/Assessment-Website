@@ -3,9 +3,6 @@ appropriately. If there is any odd spacing out with the code, that is because it
 
 body {
  background-color:rgb(255,255,255);
- border-width:5px;
- border-color:rgb(0,0,0);
- border-style:solid;
  padding:0;
  margin:0;
 }
