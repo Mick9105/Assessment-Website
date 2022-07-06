@@ -20,10 +20,14 @@ ul.navigation {
  border-color:rgb(0,0,0);
  border-width:5px;
  border-style:solid;
- overflow:hidden;
+ overflow:auto;
+ position:fixed;
+ height:100%;
+ width:25%;
 }
 li.navigation {
  float:left;
+ display:block;
 }
 a.nav {
  display:block;
