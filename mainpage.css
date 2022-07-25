@@ -29,7 +29,7 @@ li a.nav {
  display:block;
 }
 /* For the current page the user is on */
-li p.nav {
+li p.currentpage {
  text-align:center;
  padding:10px;
  display:block;
