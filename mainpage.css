@@ -32,6 +32,7 @@ li a.nav {
 li p.nav {
  text-align:center;
  padding:10px;
+ display:block;
 }
 /* Content Styling */
 div.content {
