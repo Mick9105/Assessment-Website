@@ -24,8 +24,10 @@ ul.navigation {
  height:100%;
  width:10%;
 }
-li.nav {
+a.nav {
  display:block;
+}
+ li.navigation {
  text-align:center;
  padding:10px;
 }
