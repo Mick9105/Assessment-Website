@@ -24,12 +24,10 @@ ul.navigation {
  height:100%;
  width:10%;
 }
-a.nav {
- display:block;
-}
- li.navigation {
+a.nav, p.nav{
  text-align:center;
  padding:10px;
+ display:block;
 }
 /* Content Styling */
 div.content {
