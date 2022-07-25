@@ -22,7 +22,7 @@ ul.navigation {
  overflow:auto;
  position:fixed;
  height:100%;
- width:25%;
+ width:10%;
 }
 a.nav {
  display:block;
