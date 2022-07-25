@@ -24,7 +24,7 @@ ul.navigation {
  height:100%;
  width:10%;
 }
-a.nav, p.currentpage{
+.nav{
  text-align:center;
  padding:10px;
  display:block;
@@ -33,7 +33,7 @@ a.nav, p.currentpage{
 div.content {
  text-size:10px;
  color:rgb(0,0,255);
- margin-left:25%;
+ margin-left:10%;
  padding:10px 10px;
 }
 /* Footer Styling */
