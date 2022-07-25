@@ -34,6 +34,7 @@ div.content {
  text-size:10px;
  color:rgb(0,0,255);
  width:90%;
+ float:right;
 }
 /* Footer Styling */
 
