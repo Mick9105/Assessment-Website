@@ -6,6 +6,10 @@ body {
  padding:0;
  margin:0;
 }
+/* It is recommended to use this so elements remain the same size, regardless of padding or margins. */
+* {
+ box-sizing:border-box;
+}
 /* Heading Styling */
 h1.header {
  text-size:20px;
