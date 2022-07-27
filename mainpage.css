@@ -26,6 +26,9 @@ ul.navigation {
  position:fixed;
  height:100%;
  width:10%;
+ border-color:rgb(0,0,0);
+ border-width:2px;
+ border-style:solid;
 }
 li a.nav {
  text-align:center;
