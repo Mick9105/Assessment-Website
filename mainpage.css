@@ -26,23 +26,18 @@ ul.navigation {
  position:fixed;
  height:100%;
  width:10%;
+ border:black 2px solid;
 }
 li a.nav {
  text-align:center;
  padding:10px;
  display:block;
- border-color:rgb(0,0,0);
- border-width:thin;
- border-style:solid;
 }
 /* For the current page the user is on */
 li p.currentpage {
  text-align:center;
  padding:10px;
  display:block;
- border-color:rgb(0,0,0);
- border-width:thin;
- border-style:solid;
 }
 /* Content Styling */
 div.content {
