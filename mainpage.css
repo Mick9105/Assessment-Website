@@ -26,16 +26,18 @@ ul.navigation {
  position:fixed;
  border:black 4px solid;
 }
-li a.nav {
+ul.navigation li {
+ float:left;
+}
+a.nav {
  text-align:center;
  padding:10px;
- display:inline;
+ display:block;
 }
 /* For the current page the user is on */
-li p.currentpage {
+p.currentpage {
  text-align:center;
  padding:10px;
- display:inline;
 }
 /* Content Styling */
 div.content {
