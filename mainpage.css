@@ -29,14 +29,12 @@ ul.navigation {
 li a.nav {
  text-align:center;
  padding:10px;
- display:block;
  float:left;
 }
 /* For the current page the user is on */
 li p.currentpage {
  text-align:center;
  padding:10px;
- display:block;
  float:left;
 }
 /* Content Styling */
