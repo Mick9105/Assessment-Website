@@ -23,7 +23,6 @@ ul.navigation {
  list-style-type:none;
  background-color:rgb(100,100,100);
  overflow:hidden;
- position:sticky;
  border:black 4px solid;
  display:block;
  max-width:100%;
