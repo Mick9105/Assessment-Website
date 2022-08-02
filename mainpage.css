@@ -25,6 +25,7 @@ ul.navigation {
  overflow:hidden;
  position:fixed;
  border:black 4px solid;
+ display:block;
 }
 ul.navigation li {
  float:left;
