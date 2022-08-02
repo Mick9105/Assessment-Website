@@ -26,6 +26,7 @@ ul.navigation {
  position:fixed;
  border:black 4px solid;
  display:block;
+ max-width:100%;
 }
 ul.navigation li {
  float:left;
@@ -43,7 +44,6 @@ background-color:rgb(0,255,0);
 div.content {
  text-size:10px;
  color:rgb(0,0,255);
- padding:10px;
 }
 /* Footer Styling */
 
