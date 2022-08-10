@@ -50,7 +50,7 @@ iframe {
  height:150%;
 }
 /* Footer Styling */
-table.footer {
+table.footer, tr, td {
  border-style:solid;
  border-width:3px;
  border-color:black;
