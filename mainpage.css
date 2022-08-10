@@ -47,7 +47,7 @@ div.content {
 /*Styling the iframe element in the index file */
 iframe {
  width:100%;
- height:150%;
+ height:200px;
 }
 /* Footer Styling */
 table.footer, tr, td {
