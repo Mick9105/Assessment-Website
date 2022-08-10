@@ -50,4 +50,11 @@ iframe {
  height:150%;
 }
 /* Footer Styling */
+table.footer {
+ 
+}
+/* For all links inside the table, I want to remove the underlining of the links */
+a.tablinks {
+ 
+}
 
