@@ -54,6 +54,7 @@ table.footer, tr, td {
  border-style:solid;
  border-width:3px;
  border-color:black;
+ border-collapse:collapse;
 }
 /* For all links inside the table, I want to remove the underlining of the links */
 a.tablinks {
