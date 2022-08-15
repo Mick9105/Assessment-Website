@@ -59,6 +59,5 @@ table.footer, tr, td {
 /* For all links inside the table, I want to remove the underlining of the links, and make the links open in a new tab */
 a.tablinks {
  text-decoration:none;
- target:_blank;
 }
 
