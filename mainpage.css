@@ -38,7 +38,7 @@ li a.nav {
 }
 /* For the current page the user is on */
 li a.nav:active {
-background-color:rgb(100,100,100);
+color:rgb(50,50,50);
 }
 /* Content Styling */
 div.content {
