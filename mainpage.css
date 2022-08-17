@@ -13,7 +13,7 @@ body {
 /* Heading Styling */
 h1.header {
  text-size:20px;
- color:rgb(255,0,0);
+ color:rgb(0,0,0);
  padding:10px;
 }
 /* Navigation Styling */
@@ -21,7 +21,7 @@ ul.navigation {
  margin:0;
  padding:0;
  list-style-type:none;
- background-color:rgb(100,100,100);
+ background-color:rgb(0,0,0);
  overflow:hidden;
  border:black 4px solid;
  display:block;
@@ -34,6 +34,7 @@ li a.nav {
  text-align:center;
  padding:10px;
  display:block;
+ color:rgb(255,255,255);
 }
 /* For the current page the user is on */
 li a.nav:active {
@@ -42,7 +43,7 @@ background-color:rgb(0,255,0);
 /* Content Styling */
 div.content {
  text-size:10px;
- color:rgb(0,0,255);
+ color:rgb(0,0,0);
 }
 /*Styling the iframe element in the index file */
 iframe {
