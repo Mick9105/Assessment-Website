@@ -49,11 +49,6 @@ div.content {
  text-size:10px;
  color:rgb(0,0,0);
 }
-/*Styling the iframe element in the index file */
-iframe {
- width:100%;
- height:400px;
-}
 /* Footer Styling */
 table.footer, tr, td {
  border-style:solid;
