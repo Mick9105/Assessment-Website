@@ -49,6 +49,13 @@ div.content {
  text-size:10px;
  color:rgb(0,0,0);
 }
+/*Relevant implications table styling */
+table.RItable, tr, td {
+ border-style:solid;
+ border-width:3px;
+ border-color:black;
+ border-collapse:collapse;
+}
 /* Footer Styling */
 table.footer, tr, td {
  border-style:solid;
