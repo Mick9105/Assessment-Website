@@ -56,6 +56,13 @@ table.RItable, tr, td {
  border-color:black;
  border-collapse:collapse;
 }
+/* Removing the additional borders at the bottom of the relevant implication table */
+td.specialcase {
+ border-style:solid;
+ border-width:3px;
+ border-color:black;
+ border-collapse:separate;
+}
 /* Footer Styling */
 table.footer, tr, td {
  border-style:solid;
