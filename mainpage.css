@@ -15,6 +15,7 @@ h1.header {
  text-size:20px;
  color:rgb(0,0,0);
  padding:10px;
+ margin-left:10px;
 }
 /* Navigation Styling */
 ul.navigation {
@@ -48,6 +49,7 @@ color:rgb(255,255,255);
 div.content {
  text-size:10px;
  color:rgb(0,0,0);
+ margin-left:10px;
 }
 /*Relevant implications table styling */
 table.RItable, tr, td {
@@ -71,6 +73,6 @@ a.tablinks {
 caption {
  text-size:15px;
  padding:10px;
- margin:0;
+ margin:10px;
 }
 
