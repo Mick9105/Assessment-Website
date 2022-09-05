@@ -5,6 +5,7 @@ body {
  background-color:rgb(255,255,255);
  padding:0;
  margin:0;
+ font-family:"Verdana", "Arial", sans-serif;
 }
 /* It is recommended to use this so elements remain the same size, regardless of padding or margins. */
 * {
@@ -22,7 +23,7 @@ ul.navigation {
  list-style-type:none;
  background-color:rgb(0,0,0);
  overflow:hidden;
- border:black 4px solid;
+ border:"black" 4px solid;
  display:block;
  max-width:100%;
 }
@@ -53,14 +54,14 @@ div.content {
 table.RItable, tr, td {
  border-style:solid;
  border-width:3px;
- border-color:black;
+ border-color:"black";
  border-collapse:collapse;
 }
 /* Footer Styling */
 table.footer, tr, td {
  border-style:solid;
  border-width:3px;
- border-color:black;
+ border-color:"black";
  border-collapse:collapse;
 }
 /* For all links inside the table, I want to remove the underlining of the links */
