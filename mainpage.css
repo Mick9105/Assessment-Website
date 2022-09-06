@@ -72,8 +72,9 @@ a.tablinks {
 }
 /* Making the title of the bibliography more obvious */
 caption {
- text-size:15px;
+ text-size:20px;
  padding:10px;
  margin:10px;
+ float:left;
 }
 
