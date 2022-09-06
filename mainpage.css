@@ -5,6 +5,8 @@ body {
  background-color:rgb(255,255,255);
  padding:0;
  margin:0;
+ /* This is setting the tone of the font for the entire website. My default is Verdana, my first fallback is Arial, and if neither of these are supported, then I want it
+ to pick a sans-serif font that is supported. This is based on an informed decision after getting another opinion on the fonts. */
  font-family:"Verdana", "Arial", sans-serif;
 }
 /* It is recommended to use this so elements remain the same size, regardless of padding or margins. */
