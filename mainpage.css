@@ -16,11 +16,12 @@ body {
 /* Heading Styling */
 h1.header {
  color:rgb(0,0,0);
- margin-left:10px;
+ margin-left:1vw;
+ text-size:5vw;
 }
 /* Navigation Styling */
 ul.navigation {
- margin-left:10px;
+ margin-left:1vw;
  padding:0;
  list-style-type:none;
  background-color:rgb(0,0,0);
@@ -48,7 +49,7 @@ color:rgb(255,255,255);
 }
 /* Content Styling */
 div.content {
- text-size:10px;
+ text-size:2vw;
  color:rgb(0,0,0);
  margin-left:10px;
 }
@@ -58,7 +59,7 @@ table.footer, tr, td {
  border-width:3px;
  border-color:"black";
  border-collapse:collapse;
- margin-left:10px;
+ margin-left:1vw;
 }
 /* For all links inside the table, I want to remove the underlining of the links */
 a.tablinks {
@@ -66,9 +67,9 @@ a.tablinks {
 }
 /* Making the title of the bibliography more obvious */
 caption {
- text-size:30px;
+ text-size:4vw;
  text-align:left;
  text-decoration-line:underline;
- padding-bottom:10px;
+ padding-bottom:1vw;
 }
 
