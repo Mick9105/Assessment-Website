@@ -60,11 +60,13 @@ table.footer, tr, td {
  border-color:"black";
  border-collapse:collapse;
  margin-left:1vw;
+ max-width:100%;
 }
 /* For all links inside the table, I want to remove the underlining of the links */
 a.tablinks {
  text-decoration:none;
 }
+/*Rescaling of images on my website */
 iframe {
  max-width:100%;
  height:auto;
