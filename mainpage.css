@@ -65,11 +65,11 @@ table.footer, tr, td {
 a.tablinks {
  text-decoration:none;
 }
-/* Making the title of the bibliography more obvious */
-caption {
- text-size:4vw;
- text-align:left;
- text-decoration-line:underline;
- padding-bottom:1vw;
+iframe {
+ max-width:100%;
+ height:auto;
 }
-
+img {
+ max-width:100%;
+ height:auto;
+}
