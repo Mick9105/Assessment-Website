@@ -2,7 +2,7 @@
 appropriately. If there is any odd spacing out with the code, that is because it helps me develop the code when it all fits in my viewpoint.*/
 
 body {
- background-color:rgb(255,255,0);
+ background-color:rgb(255,255,255);
  padding:0;
  margin:0;
  /* This is setting the tone of the font for the entire website. My default is Verdana, my first fallback is Arial, and if neither of these are supported, then I want it
@@ -15,7 +15,7 @@ body {
 }
 /* Heading Styling */
 h1.header {
- color:rgb(0,0,0);
+ color:rgb(255,255,0);
  margin-left:1vw;
  text-size:5vw;
 }
@@ -24,7 +24,7 @@ ul.navigation {
  margin-left:1vw;
  padding:0;
  list-style-type:none;
- background-color:rgb(255,0,0);
+ background-color:rgb(255,126,0);
  overflow:hidden;
  border:"black" 4px solid;
  display:block;
@@ -37,20 +37,20 @@ li a.nav {
  text-align:center;
  padding:10px;
  display:block;
- color:rgb(255,255,0);
+ color:rgb(255,0,0);
 }
 /* For the current page the user is on */
 li a.active {
-background-color:rgb(255,126,0);
+background-color:rgb(255,255,0);
 text-align:center;
 padding:10px;
 display:block;
-color:rgb(255,255,255);
+color:rgb(255,0,0);
 }
 /* Content Styling */
 div.content {
  text-size:2vw;
- color:rgb(0,0,0);
+ color:rgb(255,255,0);
  margin-left:10px;
 }
 /* Footer Styling */
