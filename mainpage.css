@@ -67,7 +67,7 @@ a.tablinks {
  text-decoration:none;
 }
 /*Rescaling of images on my website */
-@media only screen and (mim-width:600px) {
+@media only screen and (min-width:600px) {
 iframe {
  max-width:100%;
  height:auto;
